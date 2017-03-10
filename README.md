@@ -38,3 +38,7 @@ You'll also need :
 - Access to a 3D printer 
 - A soldering iron 
 - Basic understanding of how electronics work 
+
+##The 3D printed casing 
+
+![Looped GIF](/assets/images/Facebox_loop.gif)
