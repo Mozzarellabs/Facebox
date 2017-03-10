@@ -12,7 +12,7 @@ Uses a Raspberry Pi, a camera and a thermal printer.
 5. Picture is taken (LED switches off) 
 6. Picture prints 
 
-¯\_(ツ)_/¯
+( ͡° ͜ʖ ͡°)
 
 Press the LED longer to swith power off. 
 
