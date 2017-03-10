@@ -3,6 +3,8 @@
 DIY portable photo booth. 
 Uses a Raspberry Pi, a camera and a thermal printer. 
 
+> This project was made in 2014 and a lot of the equipment has evolved since. You could probably use a smaller (and cheaper) Raspberry Pi for example. Also, Adafruit has expanded its range of thermal printers (see thermal printer guts: https://www.adafruit.com/product/2753 and nano printer: https://www.adafruit.com/product/2752). 
+
 ##Basic behavior 
 
 1. Plug in power 
