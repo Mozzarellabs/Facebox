@@ -43,4 +43,18 @@ You'll also need :
 
 ##The 3D printed casing 
 
+The casing has 5 parts: 
+
+- The base 
+- The top half of the head 
+- The bottom part of the head 
+- The mouth 
+- The eye 
+
 ![Looped GIF](/assets/images/Facebox_loop.gif)
+
+#Possible ameliorations 
+
+[] Easier way to change text on image (ideally in a config.txt file) 
+[] Better 3D file for base that supports the thermal printer 
+[] 3D files for new Adafruit thermal printer guts (should allow for slimer version) 
