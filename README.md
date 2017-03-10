@@ -5,7 +5,7 @@ Uses a Raspberry Pi, a camera and a thermal printer.
 
 See a demonstration here: 
 
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/IuZUDrAImiY)
+[![ScreenShot](/assets/images/facebox_vid_cap.png)](https://youtu.be/IuZUDrAImiY)
 
 ##Bill of Materials 
 
