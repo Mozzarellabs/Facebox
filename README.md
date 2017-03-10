@@ -55,6 +55,6 @@ The casing has 5 parts:
 
 #Possible ameliorations 
 
-[] Easier way to change text on image (ideally in a config.txt file) 
-[] Better 3D file for base that supports the thermal printer 
-[] 3D files for new Adafruit thermal printer guts (should allow for slimer version) 
+- Easier way to change text on printed picture (ideally in a config.txt file) 
+- Better 3D file for base that supports the thermal printer 
+- 3D files for new Adafruit thermal printer guts (should allow for slimer version) 
