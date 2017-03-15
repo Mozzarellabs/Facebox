@@ -5,7 +5,7 @@ Uses a Raspberry Pi, a camera and a thermal printer.
 
 > This project was made in 2014 and a lot of the equipment has evolved since. You could probably use a smaller (and cheaper) Raspberry Pi for example. Also, Adafruit has expanded its range of thermal printers (see thermal printer guts: https://www.adafruit.com/product/2753 and nano printer: https://www.adafruit.com/product/2752). 
 
-##Basic behavior 
+## Basic behavior 
 
 1. Plug in power 
 2. LED switches on when ready 
@@ -22,7 +22,7 @@ See a demonstration here:
 
 [![ScreenShot](/assets/images/facebox_vid_cap.png)](https://youtu.be/IuZUDrAImiY)
 
-##Bill of Materials 
+## Bill of Materials 
 
 - Rasberry Pi http://www.adafruit.com/products/998 39.95$
 - Rasberry Pi camera http://www.adafruit.com/products/1367 - 29.95$
@@ -41,7 +41,7 @@ You'll also need :
 - A soldering iron 
 - Basic understanding of how electronics work 
 
-##The 3D printed casing 
+## The 3D printed casing 
 
 The casing has 5 parts: 
 
@@ -53,7 +53,7 @@ The casing has 5 parts:
 
 ![Looped GIF](/assets/images/Facebox_loop.gif)
 
-#Possible ameliorations 
+# Possible ameliorations 
 
 - Easier way to change text on printed picture (ideally in a config.txt file) 
 - Better 3D file for base that supports the thermal printer 
